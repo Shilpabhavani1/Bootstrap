@@ -1,0 +1,32 @@
+.div
+{
+   background-color:lavender;
+   height:600px;
+   width:900px;
+   padding-top:20px;
+   padding-right:20px;
+   padding-bottom:30px;
+   padding-left:20px;
+}
+.div1
+{
+	background-color:white;
+	height:50px;
+	width:800px;
+    margin-bottom:10px;
+}
+select
+{
+   background-color:red;
+   color:white;
+   border-radius:5px;
+   font-size:15px;
+}
+span
+{
+   background-color:skyblue;
+   color:white;
+   border-radius:5px;
+   border:40px;
+   padding:4px;
+}
